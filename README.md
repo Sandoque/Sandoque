@@ -1,4 +1,4 @@
-# Hi there 👋🌍
+# Olá, Mundo! 👋🌍
 Meu nome é Antônio Carlos Sandoque, moro em Recife, estado de Pernambuco / Brasil.
 
 ## Sobre mim 🎧
