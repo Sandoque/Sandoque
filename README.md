@@ -6,16 +6,16 @@ Em aprendizado contínuo nas áreas de Análise de Dados e Desenvolvimento Web.
 Minha meta é produzir algo que faça sentido na vida das pessoas.
 
 ## Formação Acadêmica :mortar_board:
-- Ciência de Dados - Wyden (em andamento)
-- Gestão da Informação - Universidade Federal de Pernambuco
-- Licenciatura em Computação - Estácio (em andamento)
-- Logística - ETE Cícero Dias
+- [ ] Ciência de Dados - Wyden (em andamento)
+- [x] Gestão da Informação - Universidade Federal de Pernambuco
+- [ ] Licenciatura em Computação - Estácio (em andamento)
+- [x] Logística - ETE Cícero Dias
 
 ## Cursos de aperfeiçoamento :blue_book:
-- Bootcamp Analista de Dados - IGTI
-- Bootcamp Desenvolvedor Business Intelligence - IGTI
-- Bootcamp - Desenvolvedor Front End - IGTI (em andamento)
-- Bootcamp LaunchBase - Rocketseat (em andamento)
+- [x] Bootcamp Analista de Dados - IGTI
+- [x] Bootcamp Desenvolvedor Business Intelligence - IGTI
+- [ ] Bootcamp - Desenvolvedor Front End - IGTI (em andamento)
+- [ ] Bootcamp LaunchBase - Rocketseat (em andamento)
 
 ## Atualmente estou aprendendo :floppy_disk:
 - Angular
