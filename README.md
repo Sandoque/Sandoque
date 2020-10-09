@@ -1,52 +1,36 @@
-### Hi there 👋
+# Hi there 👋🌍
+Meu nome é Antônio Carlos Sandoque, moro em Recife, estado de Pernambuco / Brasil.
 
-<!--
-**Sandoque/Sandoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim 🎧
+Em aprendizado contínuo nas áreas de Análise de Dados e Desenvolvimento Web.
+Minha meta é produzir algo que faça sentido na vida das pessoas.
 
-Here are some ideas to get you started:
+## Formação Acadêmica :mortar_board:
+- Ciência de Dados - Wyden (em andamento)
+- Gestão da Informação - Universidade Federal de Pernambuco
+- Licenciatura em Computação - Estácio (em andamento)
+- Logística - ETE Cícero Dias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Cursos de aperfeiçoamento :blue_book:
+- Bootcamp Analista de Dados - IGTI
+- Bootcamp Desenvolvedor Business Intelligence - IGTI
+- Bootcamp - Desenvolvedor Front End - IGTI (em andamento)
+- Bootcamp LaunchBase - Rocketseat (em andamento)
 
-
-Olá! :blush: Meu nome é Antônio Carlos Sandoque, moro em Recife, estado de Pernambuco / Brasil.
-## About me 🎧
-I worked for 10 years as a graphic designer and a few months ago I decided to migrate from the sector and specialize as a web developer.
-
-## Academic Education :mortar_board:
-- Graduation in Systems Analysis and Development (in progress)
-
-## Improvement courses :blue_book:
-- Frontend Developer Bootcamp (IGTI - in progress)
-- Fullstack Developer Bootcamp (IGTI)
-- Front-end React Developer Bootcamp (Digital Innovation One)
-- Vue.js Course (Udemy - in progress)
-- JavaScript Course (Udemy)
-- Programming algorithm and logic Course (Udemy)
-- C++ Course (Udemy)
-
-## I’m currently learning :floppy_disk:
-- JavaScript
+## Atualmente estou aprendendo :floppy_disk:
+- Angular
 - CSS3
+- Git
 - HTML5
-- TypeScript
+- Java
+- JavaScript
 - NodeJS
+- Power BI
 - React
+- SQL
+- TypeScript
 - Vue
-- Bootstrap
-- Git 
 
-## Find me :mailbox_with_mail:
-- ✉️ Email: acsandoque@gmail.com
-- 💼 Linkedin: https://www.linkedin.com/in/Sandoque
-
----
-[![Linkedin Badge](https://img.shields.io/badge/-Sandoque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandoque/)](https://www.linkedin.com/in/sandoque/) [![Gmail Badge](https://img.shields.io/badge/-acsandoque@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acsandoque@gmail.com)](mailto:acsandoque@gmail.com)
-
--->
+## Contatos :mailbox_with_mail:
+[![Gmail Badge](https://img.shields.io/badge/-acsandoque@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acsandoque@gmail.com)](mailto:acsandoque@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Sandoque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandoque/)](https://www.linkedin.com/in/sandoque/)
