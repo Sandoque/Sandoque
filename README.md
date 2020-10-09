@@ -2,7 +2,7 @@
 Meu nome é Antônio Carlos Sandoque, moro em Recife, estado de Pernambuco / Brasil.
 
 ## Sobre mim 🎧
-Em aprendizado contínuo nas áreas de Análise de Dados e Desenvolvimento Web.
+Em aprendizado contínuo nas áreas de Análise de Dados e Desenvolvimento Web.<br />
 Minha meta é produzir algo que faça sentido na vida das pessoas.
 
 ## Formação Acadêmica :mortar_board:
