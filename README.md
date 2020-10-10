@@ -30,7 +30,7 @@ Minha meta é produzir algo que faça sentido na vida das pessoas.
 - SQL
 - TypeScript
 - Vue
-
+---
 ## Contatos :mailbox_with_mail:
 
 <a href="https://www.linkedin.com/in/sandoque/">
