@@ -39,6 +39,7 @@ Minha meta é produzir algo que faça sentido na vida das pessoas.
  
  <a href="https://www.linkedin.com/in/sandoque/"> <b> Antônio Carlos Sandoque</b> </a> <a href="https://www.linkedin.com/in/sandoque/" title="Sandoque">🚀</a> <br />
  
-[![Linkedin Badge](https://img.shields.io/badge/-Sandoque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandoque/)](https://www.linkedin.com/in/sandoque/) [![Gmail Badge](https://img.shields.io/badge/-acsandoque@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acsandoque@gmail.com)](mailto:acsandoque@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Sandoque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandoque/)](https://www.linkedin.com/in/sandoque/) [![Gmail Badge](https://img.shields.io/badge/-acsandoque@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:acsandoque@gmail.com)](mailto:acsandoque@gmail.com) [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581991363264&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+DDD+número_de_telefone&text=Hello!)
+
 
 ---
