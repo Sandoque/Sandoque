@@ -6,7 +6,6 @@ Em aprendizado contínuo nas áreas de Análise de Dados e Desenvolvimento Web.<
 Minha meta é produzir algo que faça sentido na vida das pessoas.
 
 ## Formação Acadêmica :mortar_board:
-- [ ] Ciência de Dados - Wyden (em andamento)
 - [x] Gestão da Informação - Universidade Federal de Pernambuco
 - [ ] Licenciatura em Computação - Estácio (em andamento)
 - [x] Logística - ETE Cícero Dias
