@@ -13,13 +13,15 @@ Minha meta é produzir algo que faça sentido na vida das pessoas.
 ## Cursos de aperfeiçoamento :blue_book:
 - [x] Bootcamp Analista de Dados - IGTI
 - [x] Bootcamp Desenvolvedor Business Intelligence - IGTI
-- [ ] Bootcamp - Desenvolvedor Front End - IGTI (em andamento)
+- [x] Bootcamp - Desenvolvedor Front End - IGTI 
 - [ ] Bootcamp LaunchBase - Rocketseat (em andamento)
+- [ ] UX / UI Designer e Desenvolvedor Front-End - Origamid (em andamento)
 
 ## Atualmente estou aprendendo :floppy_disk:
 - Angular
 - CSS3
 - Git
+- GLPI
 - HTML5
 - Java
 - JavaScript
@@ -28,6 +30,7 @@ Minha meta é produzir algo que faça sentido na vida das pessoas.
 - React
 - SQL
 - TypeScript
+- UX/UI Design
 - Vue
 ---
 ## Contatos :mailbox_with_mail:
