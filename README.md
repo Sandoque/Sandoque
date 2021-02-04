@@ -15,6 +15,7 @@ Minha meta é produzir algo que faça sentido na vida das pessoas.
 - [x] Bootcamp Desenvolvedor Business Intelligence - IGTI
 - [x] Bootcamp - Desenvolvedor Front End - IGTI 
 - [ ] Bootcamp LaunchBase - Rocketseat (em andamento)
+- [ ] Maratona Python
 - [ ] UX / UI Designer e Desenvolvedor Front-End - Origamid (em andamento)
 
 ## Atualmente estou aprendendo :floppy_disk:
@@ -27,6 +28,7 @@ Minha meta é produzir algo que faça sentido na vida das pessoas.
 - JavaScript
 - NodeJS
 - Power BI
+- Python
 - React
 - SQL
 - TypeScript
