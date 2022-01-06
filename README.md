@@ -19,7 +19,7 @@ Minha meta é produzir algo que faça sentido na vida das pessoas.
 <br />
 
 ## 🚀 **Linguagens e Ferramentas**
----
+
 #### 💻 Uso no trabalho:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
