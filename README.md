@@ -1,7 +1,6 @@
 # Olá, Mundo!! 👋🌍
 Meu nome é Antônio Carlos Sandoque, moro em Recife, estado de Pernambuco / Brasil.
 
-<br />
 
 <img  style="border-radius: 50%;" src="https://user-images.githubusercontent.com/65127683/95398436-20bcbf00-08dc-11eb-95a3-d1aaedc987d0.jpg" width="100px;" alt=""/>
 
@@ -10,12 +9,6 @@ Meu nome é Antônio Carlos Sandoque, moro em Recife, estado de Pernambuco / Bra
 Em aprendizado contínuo nas áreas de Egenharia de Dados, Desenvolvimento e afins...
 <br />
 Minha meta é produzir algo que faça sentido na vida das pessoas.
-
-<br />
-
- 
-
-
 
 
 ## 🚀 **Linguagens e Ferramentas**
