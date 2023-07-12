@@ -24,26 +24,18 @@ Minha meta é produzir algo que faça sentido na vida das pessoas.
 ![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=Google-Cloud)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
 ![Azure Devops](https://img.shields.io/badge/-Azure%20Devops-black?style=plastic&logo=Azure-Devops)
+![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
 
 #### 📚 Tenho conhecimento básico:
 ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=flat-square&logo=Apache-Hadoop)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
-![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
 ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=Javascript)
 ![Typescript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=Typescript)
 ![TCSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
 
-#### 🌱 Estou aprendendo:
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
-![Selenium](https://img.shields.io/badge/-Selenium-black?style=flat-square&logo=Selenium)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=Jenkins)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=GitHub-Actions)
-![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
-![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=Terraform)
+## 
 
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sandoque&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
