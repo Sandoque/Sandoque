@@ -38,4 +38,4 @@ Minha meta é produzir algo que faça sentido na vida das pessoas.
 
 ## 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sandoque&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sandoque&theme=dark&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
